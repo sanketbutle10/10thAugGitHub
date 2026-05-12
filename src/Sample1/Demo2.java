@@ -9,11 +9,11 @@ public class Demo2 {
 	}
 	
 	public static void m1() {
-		System.out.println("A1");
+		System.out.println("A1A1");
 	}
 	
 	public static void m2() {
-		System.out.println("A2");
+		System.out.println("A2A2");
 	}
 
 }
